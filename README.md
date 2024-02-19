@@ -2,14 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Monish!;" />
 </h1>
 
-<h3 align="center">A Junior year Btech Computer Science and Engineering major at VIT Chennai. Passionate in game development, aritificial intelligence and machine learning, with an avid interest in the latest trends and technologies in the gaming industry. A team player who loves to interact with new people. A guitarist and a fun-loving person with a great interest in travel.</h3>
+<h3 align="center">I'm a Junior year Btech Computer Science and Engineering major at VIT Chennai.
+    
+Passionate in game development, Aritificial intelligence and Machine learning, with an avid interest in the latest trends and technologies in the gaming industry. A team player who loves to interact with new people. A guitarist and a fun-loving person with a great interest in travel.</h3>
 
 <br/>
-
-<div align="center">
- 
- 🌱 I’m currently a **Junior year student**
- </div>
  
 <div align="center"> 
   <a href="mailto:monishp200377@gmail.com">
