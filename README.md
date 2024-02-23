@@ -6,9 +6,9 @@
     
 Passionate in game development, Aritificial intelligence and Machine learning, with an avid interest in the latest trends and technologies in the gaming industry. A team player who loves to interact with new people. A guitarist and a fun-loving person with a great interest in travel.</h3>
 
+## 🌐 Reach me on:
 <br/>
- 
-<div align="center"> 
+ <div align="center"> 
   <a href="mailto:monishp200377@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -27,7 +27,7 @@ Passionate in game development, Aritificial intelligence and Machine learning, w
 <br/>
 </tr>   
   </table>
-
+ 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
