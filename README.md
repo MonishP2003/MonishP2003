@@ -69,5 +69,9 @@ Passionate in game development, Aritificial intelligence and Machine learning, w
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
+# 📈Stats
+<p align="center"> 
+<img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonishP2003&layout=compact&theme=gruvbox" alt="Monish" />
+</p>
 
 <br/>
