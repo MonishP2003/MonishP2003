@@ -6,7 +6,7 @@
     
 Passionate in game development, Aritificial intelligence and Machine learning, with an avid interest in the latest trends and technologies in the gaming industry. A team player who loves to interact with new people. A guitarist and a fun-loving person with a great interest in travel.</h3>
 
-## 🌐 Reach me on:
+## 🌐 Reach me on
 <br/>
  <div align="center"> 
   <a href="mailto:monishp200377@gmail.com">
